@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1683824655 source:c:\codeblockfiles\car game\main.cpp
+	<iostream>
+	<curses.h>
+	<vector>
+	<string>
+	<map>
+	<unistd.h>
+
+1567627682 c:\pdcurses-3.9\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
